@@ -16,10 +16,13 @@ body {
     
   img {
     max-width: 40%;
-    padding: 20px;
+    padding: 60px;
     display: block;
-    margin: 0 auto;
+    margin: 20px;
     background-color: gray;
+  }
+  .imagen {
+    margin-left: 30%;
   }
   
   .btn {
@@ -32,7 +35,7 @@ body {
     padding-top: 15px;
     padding-bottom: 15px;
   }
-  .d-grid {
-    margin-left: 30%;
+  .mx-5 {
+    margin-left: 35%;
   }
     
