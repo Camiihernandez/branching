@@ -19,10 +19,20 @@ body {
     padding: 20px;
     display: block;
     margin: 0 auto;
+    background-color: gray;
   }
   
   .btn {
     font-size: 20px;
     font-weight: 300;
+  }
+  button {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+  .d-grid {
+    margin-left: 30%;
   }
     
